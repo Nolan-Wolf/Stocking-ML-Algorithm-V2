@@ -1,0 +1,6 @@
+site_id,material_id,band,order_by,proposed_qty,case_pack,safety_stock,order_now
+S021,POD-001,Reorder,2026-12-28,2256,24,151.6,True
+S035,POD-001,Reorder,2026-12-30,1632,24,92.1,True
+S037,POD-002,Reorder,2026-12-30,192,24,13.4,True
+S027,POD-002,Reorder,2027-01-02,696,24,47.2,False
+S010,POD-002,Reorder,2027-01-05,624,24,30.9,False

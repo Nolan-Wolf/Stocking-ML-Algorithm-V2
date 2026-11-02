@@ -1,0 +1,49 @@
+site_id,site_name,city,state,climate,distance_tier,volume_tier,ordering_style
+S001,Cincinnati Large Site 1,Cincinnati,OH,temperate,Near,large,ad hoc
+S002,Cincinnati Mid Site 2,Cincinnati,OH,temperate,Near,mid,subscription
+S003,Cincinnati Small Site 3,Cincinnati,OH,temperate,Near,small,ad hoc
+S004,Cincinnati Cafe Site 4,Cincinnati,OH,temperate,Near,cafe,ad hoc
+S005,Columbus Mid Site 5,Columbus,OH,temperate,Near,mid,ad hoc
+S006,Cleveland Mid Site 6,Cleveland,OH,temperate,Mid,mid,subscription
+S007,Dayton Small Site 7,Dayton,OH,temperate,Near,small,ad hoc
+S008,Toledo Small Site 8,Toledo,OH,temperate,Mid,small,ad hoc
+S009,Indianapolis Mid Site 9,Indianapolis,IN,temperate,Mid,mid,ad hoc
+S010,Louisville Mid Site 10,Louisville,KY,temperate,Mid,mid,subscription
+S011,Lexington Small Site 11,Lexington,KY,temperate,Mid,small,ad hoc
+S012,Chicago Large Site 12,Chicago,IL,cold,Mid,large,ad hoc
+S013,Chicago Cafe Site 13,Chicago,IL,cold,Mid,cafe,ad hoc
+S014,Detroit Mid Site 14,Detroit,MI,cold,Mid,mid,subscription
+S015,Grand Rapids Small Site 15,Grand Rapids,MI,cold,Far,small,ad hoc
+S016,Milwaukee Mid Site 16,Milwaukee,WI,cold,Mid,mid,ad hoc
+S017,Madison Small Site 17,Madison,WI,cold,Far,small,ad hoc
+S018,Minneapolis Large Site 18,Minneapolis,MN,cold,Far,large,ad hoc
+S019,Minneapolis Mid Site 19,Minneapolis,MN,cold,Far,mid,subscription
+S020,Duluth Small Site 20,Duluth,MN,cold,Outlier,small,ad hoc
+S021,Duluth Cafe Site 21,Duluth,MN,cold,Outlier,cafe,ad hoc
+S022,St. Louis Mid Site 22,St. Louis,MO,temperate,Mid,mid,ad hoc
+S023,Kansas City Mid Site 23,Kansas City,MO,temperate,Far,mid,subscription
+S024,Nashville Mid Site 24,Nashville,TN,temperate,Mid,mid,ad hoc
+S025,Pittsburgh Mid Site 25,Pittsburgh,PA,temperate,Mid,mid,ad hoc
+S026,Denver Large Site 26,Denver,CO,cold,Far,large,ad hoc
+S027,Denver Mid Site 27,Denver,CO,cold,Far,mid,subscription
+S028,Colorado Springs Small Site 28,Colorado Springs,CO,cold,Far,small,ad hoc
+S029,Salt Lake City Mid Site 29,Salt Lake City,UT,cold,Far,mid,ad hoc
+S030,Boise Small Site 30,Boise,ID,cold,Outlier,small,ad hoc
+S031,Boise Mid Site 31,Boise,ID,cold,Outlier,mid,subscription
+S032,Billings Small Site 32,Billings,MT,cold,Outlier,small,ad hoc
+S033,Phoenix Large Site 33,Phoenix,AZ,warm,Outlier,large,ad hoc
+S034,Phoenix Mid Site 34,Phoenix,AZ,warm,Outlier,mid,subscription
+S035,Phoenix Cafe Site 35,Phoenix,AZ,warm,Outlier,cafe,ad hoc
+S036,Tucson Mid Site 36,Tucson,AZ,warm,Outlier,mid,ad hoc
+S037,Tucson Small Site 37,Tucson,AZ,warm,Outlier,small,ad hoc
+S038,Albuquerque Mid Site 38,Albuquerque,NM,warm,Far,mid,subscription
+S039,El Paso Small Site 39,El Paso,TX,warm,Outlier,small,ad hoc
+S040,Miami Large Site 40,Miami,FL,warm,Outlier,large,ad hoc
+S041,Miami Cafe Site 41,Miami,FL,warm,Outlier,cafe,ad hoc
+S042,Seattle Mid Site 42,Seattle,WA,temperate,Far,mid,ad hoc
+S043,Portland Mid Site 43,Portland,OR,temperate,Far,mid,subscription
+S044,Spokane Small Site 44,Spokane,WA,cold,Outlier,small,ad hoc
+S045,Fargo Small Site 45,Fargo,ND,cold,Outlier,small,ad hoc
+S046,Omaha Mid Site 46,Omaha,NE,temperate,Far,mid,ad hoc
+S047,Des Moines Small Site 47,Des Moines,IA,temperate,Mid,small,ad hoc
+S048,Anchorage Small Site 48,Anchorage,AK,extreme,Outlier,small,ad hoc
